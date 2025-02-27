@@ -3,7 +3,7 @@
 
 Um aplicativo web simples e interativo para realizar sorteios de amigo secreto de forma rápida e divertida! 
 
-![Imagem do Projeto](assets/amigo-secreto.png)
+
 
 ## 🚀 Funcionalidades
 
